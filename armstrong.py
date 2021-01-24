@@ -8,7 +8,7 @@ while a > 0:
     digit = a % 10
     total += digit**l
     a //= 10
-# Hosgeldin Yasin abi
+# Hosgeldin Yasin abi.Burayı değiştir.
 # lets print the result
 # Sunday Meeting
 if number == total:
