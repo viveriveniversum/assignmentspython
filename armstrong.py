@@ -9,11 +9,11 @@ while a > 0:
     total += digit**l
     a //= 10
 
-#lets print the result
+# lets print the result 1
 if number == total:
     print(number, "is an Armstrong number!")
 else:
     print(number, "is not an Armstrong number!")
 
-    
+
 # viveriveniversum @ github ------C7208-Onur MANAP
