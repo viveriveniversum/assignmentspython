@@ -15,6 +15,4 @@ else:
     print(number, "is not an Armstrong number!")
 
     
-#RepCom
-
 # viveriveniversum @ github ------C7208-Onur MANAP
