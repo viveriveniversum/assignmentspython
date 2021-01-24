@@ -9,6 +9,7 @@ while a > 0:
     total += digit**l
     a //= 10
 
+#lets print the result
 if number == total:
     print(number, "is an Armstrong number!")
 else:
